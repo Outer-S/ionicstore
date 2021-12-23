@@ -1,0 +1,18 @@
+.signin-title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  color: white;
+  margin-top: 3px;
+}
+
+.no-account a {
+  color: #0d4af1;
+  text-decoration: none;
+}
+
+.error-msg {
+  color: red;
+}
